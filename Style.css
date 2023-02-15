@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding: 30px;
+}
+
+.CS{
+    text-align: center;
+    padding: 50px;
+}
+
+.logo{
+    width: 70px;
+    float: left;
+    padding: 20px;
+}
+
+.header{
+    background-image: url('CP.jpeg')
+    
+}
+
+.box{
+    border: 2px solid black;
+    padding: 30px;
+    margin: 50px;
+    background-color: azure;
+}
+
+.col{
+    width: 33.3%;
+    float: left;
+}
+.col img{
+    width: 400px;
+}
+
+.col p{
+    width: 400px;
+    padding-top: 50px;
+}
+
+.language{
+    float:"left";
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.toolTitle{
+    padding:30px ;
+}
+
+.logos{
+    padding-left:50px ;
+}
